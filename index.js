@@ -1,5 +1,10 @@
-import boxen from 'boxen';
-import chalk from 'chalk';
+#!/usr/bin/env node
+
+// import boxen from 'boxen';
+// import chalk from 'chalk';
+
+const chalk = require('chalk');
+const boxen = require('boxen');
 
 const h = chalk.bold.hex("#A62349");
 const w = chalk.white;
