@@ -1,27 +1,27 @@
-  {
+{
     "name": "whoissoham",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "about me",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/sohamdata/whoisSoham-npm.git"
+        "type": "git",
+        "url": "git+https://github.com/sohamdata/whoisSoham-npm.git"
     },
     "keywords": [
-      "about",
-      "me"
+        "about",
+        "me"
     ],
     "author": "soham datta",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/sohamdata/whoisSoham-npm/issues"
+        "url": "https://github.com/sohamdata/whoisSoham-npm/issues"
     },
     "homepage": "https://github.com/sohamdata/whoisSoham-npm#readme",
     "dependencies": {
-      "boxen": "^7.0.0",
-      "chalk": "^5.0.1"
+        "boxen": "^7.0.0",
+        "chalk": "^5.0.1"
     }
-  }
+}
